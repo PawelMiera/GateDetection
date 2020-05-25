@@ -14,5 +14,5 @@ YOLO V3:
 SSD Mobilenet v2:
 
 <p align="center">
-  <img width="800" height="1500" src="https://github.com/PawelMiera/GateDetection/blob/master/images/ssd.png">
+  <img width="960" height="540" src="https://github.com/PawelMiera/GateDetection/blob/master/images/ssd.png">
 </p>
