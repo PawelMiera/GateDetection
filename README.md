@@ -3,7 +3,7 @@ Using neural networks to detect racing drone gates
 
 YOLO V3:
 <br/>
-
+<br/>
 ![](images/yoloV3_cut.jpg)
 <br/>
 <br/>
@@ -12,6 +12,7 @@ YOLO V3:
 
 
 SSD Mobilenet v2:
+<br/>
 <br/>
 <p align="center">
   <img width="960" height="540" src="https://github.com/PawelMiera/GateDetection/blob/master/images/ssd.png">
