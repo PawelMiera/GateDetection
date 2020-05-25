@@ -1,7 +1,7 @@
 # GateDetection
 Using neural networks to detect racing drone gates
 
-YOLO V3:
+YOLOv3-tiny:
 <br/>
 <br/>
 ![](images/yoloV3_cut.jpg)
